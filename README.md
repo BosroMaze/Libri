@@ -1,2 +1,2 @@
 # Libri
-Qui mettete tutti i libri che trovate negri
+Qui mettete tutti i libri che trovate
